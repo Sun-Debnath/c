@@ -1,0 +1,1 @@
+{"name":"Local: hasreturn no parameter","url":"c:\\Users\\sunde\\Desktop\\c\\module\\module_16\\hasreturn no parameter.c","tests":[{"id":1683219763630,"input":"5 6","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sunde\\Desktop\\c\\module\\module_16\\hasreturn no parameter.c","group":"local","local":true}

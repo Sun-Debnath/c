@@ -1,0 +1,1 @@
+{"name":"Local: counting_string","url":"c:\\Users\\sunde\\Desktop\\c\\module\\module_11\\counting_string.c","tests":[{"id":1682038190529,"input":"1\nadkfjhJDFH","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sunde\\Desktop\\c\\module\\module_11\\counting_string.c","group":"local","local":true}
